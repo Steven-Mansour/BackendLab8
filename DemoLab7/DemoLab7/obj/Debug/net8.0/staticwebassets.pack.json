@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\User\\RiderProjects\\DemoLab7\\DemoLab7\\wwwroot\\assets\\Campus_map.jpeg",
+      "PackagePath": "staticwebassets\\assets\\Campus_map.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\RiderProjects\\DemoLab7\\DemoLab7\\wwwroot\\assets\\Unilogo.jpg",
+      "PackagePath": "staticwebassets\\assets\\Unilogo.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DemoLab7.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DemoLab7.props",
+      "PackagePath": "build\\DemoLab7.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DemoLab7.props",
+      "PackagePath": "buildMultiTargeting\\DemoLab7.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DemoLab7.props",
+      "PackagePath": "buildTransitive\\DemoLab7.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

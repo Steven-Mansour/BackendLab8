@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "gCKiDiO2ofFnV59o3ADT9kbuQx0JLoYRWmKch+uEcxE=",
+  "Source": "DemoLab7",
+  "BasePath": "_content/DemoLab7",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DemoLab7\\wwwroot",
+      "Source": "DemoLab7",
+      "ContentRoot": "C:\\Users\\User\\RiderProjects\\DemoLab7\\DemoLab7\\wwwroot\\",
+      "BasePath": "_content/DemoLab7",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\User\\RiderProjects\\DemoLab7\\DemoLab7\\wwwroot\\assets\\Campus_map.jpeg",
+      "SourceId": "DemoLab7",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\RiderProjects\\DemoLab7\\DemoLab7\\wwwroot\\",
+      "BasePath": "_content/DemoLab7",
+      "RelativePath": "assets/Campus_map.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\Campus_map.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\RiderProjects\\DemoLab7\\DemoLab7\\wwwroot\\assets\\Unilogo.jpg",
+      "SourceId": "DemoLab7",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\RiderProjects\\DemoLab7\\DemoLab7\\wwwroot\\",
+      "BasePath": "_content/DemoLab7",
+      "RelativePath": "assets/Unilogo.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\Unilogo.jpg"
+    }
+  ]
+}

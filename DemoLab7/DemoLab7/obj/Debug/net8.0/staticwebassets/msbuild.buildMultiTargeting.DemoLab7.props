@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DemoLab7.props" />
+</Project>
